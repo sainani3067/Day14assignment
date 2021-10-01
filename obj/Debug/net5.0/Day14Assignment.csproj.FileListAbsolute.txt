@@ -1,0 +1,5 @@
+C:\Users\SAI KUMAR\source\repos\Day14Assignment\obj\Debug\net5.0\Day14Assignment.csproj.AssemblyReference.cache
+C:\Users\SAI KUMAR\source\repos\Day14Assignment\obj\Debug\net5.0\Day14Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAI KUMAR\source\repos\Day14Assignment\obj\Debug\net5.0\Day14Assignment.AssemblyInfoInputs.cache
+C:\Users\SAI KUMAR\source\repos\Day14Assignment\obj\Debug\net5.0\Day14Assignment.AssemblyInfo.cs
+C:\Users\SAI KUMAR\source\repos\Day14Assignment\obj\Debug\net5.0\Day14Assignment.csproj.CoreCompileInputs.cache
